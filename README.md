@@ -2,7 +2,7 @@
 
 Gestora Empresarial e estudante de Data Analytics.
 
-### Habilidades
+### Principais Tecnologias e Conceitos
 ![GIT](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=GIT&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/Github-fff?style=for-the-badge&logo=GIThub&color=000)
 ![Jupyter](https://img.shields.io/badge/jupyter-F27626?style=for-the-badge&logo=jupyter&logoColor=4E4E4E)
