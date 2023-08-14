@@ -9,11 +9,9 @@
 ![Jupyter](https://img.shields.io/badge/jupyter-202020?style=for-the-badge&logo=jupyter&logoColor=FF90C5)
 
 #### Git Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=danibagagim&theme=omni&background=202020&border=FFE56C&dates=FFF)](https://git.io/streak-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danibagagim&theme=omnit&bg_color=202020&border_color=FFE56C&show_icons=true&icon_color=FFE56C&title_color=FF90C5&text_color=FFF)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danibagagim&bg_color=202020&border_color=FFE56C&title_color=FF90C5&text_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danibagagim&theme=omnit&bg_color=202020&border_color=FFE56C&card_width=490&show_icons=true&icon_color=FFE56C&title_color=FF90C5&text_color=FFF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=danibagagim&card_width=490&theme=omni&date_format=j%20M%5B%20Y%5D&hide&background=202020&border=FFE56C&dates=FFF&hide_longest_streak=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danibagagim&card_width=490&bg_color=202020&border_color=FFE56C&title_color=FF90C5&text_color=FFF)
 
 #### Contribuições relevantes
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=danibagagim&repo=PROJETO_FILMFRAME&bg_color=202020&border_color=FFE56C&show_icons=true&icon_color=FFE56C&title_color=FF90C5&text_color=FFF)](https://github.com/danibagagim/PROJETO_FILMFRAME)
